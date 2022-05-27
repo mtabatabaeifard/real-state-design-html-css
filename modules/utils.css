@@ -1,0 +1,31 @@
+:root {
+    --black: #212121;
+    --white: #eeeeee;
+    --blue:#6768AB;
+    --darkerwhite:#f6f7f7;
+    --grey:#c7c7c7;
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1240px;
+}
+.d-flex{
+    display: flex;
+}
+.fd-column{
+    flex-direction: column;
+}
+.list-reset{
+    list-style-type: none;
+}
+.article-container{
+    display: flex;
+    flex-grow: 1;
+}
+.f-grow-1{
+    flex-grow: 1;
+}

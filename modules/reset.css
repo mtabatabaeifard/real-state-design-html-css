@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Yekan;
+}
+html{
+    font-size: 10px;
+    font-family: Yekan;
+}
+a{
+    text-decoration: none;
+    color: var(--black);
+    font-family: Yekan;
+}

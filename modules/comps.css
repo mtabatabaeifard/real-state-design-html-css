@@ -1,0 +1,35 @@
+
+
+/* Buttons */
+.btn{
+    font-family: Yekan;
+    border: 0.2rem solid var(--blue);
+    border-radius: 0.5rem;
+    color: var(--white);
+    font-size: 2rem;
+    background: var(--blue);
+    padding: 1rem 2rem 1rem 2rem;
+    text-decoration: none;
+}
+.btn-noback{
+    font-family: Yekan;
+    border: 0.2rem solid var(--blue);
+    border-radius: 0.5rem;
+    color: var(--blue);
+    font-size: 2rem;
+    background: transparent;
+    padding: 1rem 2rem 1rem 2rem;
+    text-decoration: none;
+}
+.btn-nbr{
+    font-family: Yekan;
+    border: 0.2rem solid transparent;
+    color: var(--black);
+    font-size: 2rem;
+    background: transparent;
+    padding: 1rem 0;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+/* Boxes */
+
